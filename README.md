@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<!--  My Code explanation -->
+
+1. npx  create-react-app  food   ||  --> to creat new app
+2. cd food
+3. npm start                     ||  --> to run the code
+4. prepare project to modify
+5. add APIkey from the site to the .env file || --> like this REACT_APP_API_KEY=01blablaAPI_KEY here
+!!!! after that restart your code
+6. installed: 
+    npm install framer-motion react-icons react-router-dom styled-components
+    npm install @splidejs/react-splide    ||  --> to make slider
